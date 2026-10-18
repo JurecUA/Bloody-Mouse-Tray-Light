@@ -1,6 +1,6 @@
 # Bloody Mouse Tray Light
 
-[English] | [Русский](README.ru.md)
+[English] | [Русский](README.ru.md) | [Українська](README.uk.md)
 
 Native Rust edition of Bloody Mouse Tray for Windows. It displays the Bloody SG5 Pro mouse battery charge, polling rate, and DPI in the system tray, with portable settings and Russian, Ukrainian, and English interface languages.
 

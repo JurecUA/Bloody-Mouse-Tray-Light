@@ -1,6 +1,6 @@
 # Bloody Mouse Tray Light
 
-[English](README.md) | **Русский**
+[English](README.md) | **Русский** | [Українська](README.uk.md)
 
 Нативная версия для Windows на Rust. Показывает заряд батареи, частоту опроса и DPI мыши Bloody SG5 Pro в системном трее. Работает без запущенной Bloody Central; настройки и история полной зарядки хранятся рядом с программой.
 
@@ -12,7 +12,7 @@
 
 ## Сборка из исходников
 
-Нужны Rust с MSVC toolchain и Microsoft Visual Studio C++ Build Tools. Из папки `bloody-mouse-tray-light` выполните:
+Нужны Rust с MSVC toolchain и Microsoft Visual Studio C++ Build Tools. Из корневой папки репозитория выполните:
 
 ```powershell
 cargo build --release
