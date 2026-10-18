@@ -1,0 +1,11 @@
+{
+  "settings": {
+    "battery_icon": false,
+    "colored_icon": false,
+    "dark_theme": true,
+    "debug": false,
+    "language": "ru",
+    "poll_rate": 5,
+    "text_outline": false
+  }
+}
